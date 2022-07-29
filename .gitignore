@@ -1,0 +1,5 @@
+.env/
+
+__psycache__/
+
+*.sqlite3
